@@ -1,5 +1,5 @@
  ## Linux Tutorial !!! 
- # Welcome to Zhicheng Wang‘s github website！
+ # Welcome to Zhicheng Wang‘s website！
  ![360_F_341477352_FPoRvWnWWqdzVFnIWn3on34gYWaSEX2K](https://user-images.githubusercontent.com/97211608/180937406-464e8ae1-fd7d-4dc0-a99f-0cbfb059d88c.jpg)
 
  
